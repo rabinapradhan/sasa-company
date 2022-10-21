@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1592a418.css",
+    "main.js": "/static/js/main.820b272b.js",
+    "static/media/kuleshworcomplex.jpg": "/static/media/kuleshworcomplex.b3eadd6d067de929e740.jpg",
+    "static/media/ceo.jpg": "/static/media/ceo.d69973d8f57d9a48bfaa.jpg",
+    "static/media/Muli-Bold.ttf": "/static/media/Muli-Bold.24ed221362b3a224f9a7.ttf",
+    "static/media/Audrey-Normal.otf": "/static/media/Audrey-Normal.dbf539370e1b91e7fef5.otf",
+    "static/media/Muli.ttf": "/static/media/Muli.4829cf81e2b513fc1b64.ttf",
+    "static/media/Audrey-Bold.otf": "/static/media/Audrey-Bold.9b8e7531ee7197c58606.otf",
+    "static/media/construction2.jpg": "/static/media/construction2.7357d4a1ca5a5586a536.jpg",
+    "static/media/construct.jpg": "/static/media/construct.ac8cdaaa10166b743e97.jpg",
+    "static/media/bg-white.svg": "/static/media/bg-white.15daf6dadef00a607d4aaef3fd6d99af.svg",
+    "static/media/background.svg": "/static/media/background.98725fd0c14be31f68d6d230a3c29eb6.svg",
+    "index.html": "/index.html",
+    "main.1592a418.css.map": "/static/css/main.1592a418.css.map",
+    "main.820b272b.js.map": "/static/js/main.820b272b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1592a418.css",
+    "static/js/main.820b272b.js"
+  ]
+}
